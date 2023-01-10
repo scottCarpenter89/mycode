@@ -13,7 +13,7 @@ def showInstructions():
       get [item]
 
     Objective: 
-        You are being hunted by a monster in a labyrinth-like mansion. You must find a key to and find the door to the Garden to escape. The ravenous beast will surely kill you if you encounter it, however, a weapon may help your survive long enough to heal yourself. If you travel too long after your encounter you may succumb to the beast poison. Good luck! \n    
+        You are being hunted by a monster in a labyrinth-like mansion. You must find a key to and find the door to the Garden to escape. The ravenous beast will surely kill you if you encounter it, however, a weapon may help your survive long enough to heal yourself. If you travel too long after your encounter you may succumb to the beast\'s poison. Good luck! \n    
     ''')
 
 def showStatus():
